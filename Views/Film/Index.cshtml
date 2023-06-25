@@ -1,0 +1,74 @@
+@model IEnumerable<Filmy.Models.Film>
+
+@{
+    ViewData["Title"] = "Filmy";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tytul)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RokProdukcji)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gatunek)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rezyser)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Opis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Oceny)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tytul)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RokProdukcji)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gatunek)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rezyser)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Opis)
+            </td>
+
+            <td>    
+            @{
+                double averageOcena = 0.0;
+                if (item.Oceny != null && item.Oceny.Any())
+                {
+                    averageOcena = item.Oceny.Average(o => o.OcenaWartosc);
+                }
+            }
+                @Html.DisplayFor(modelItem => averageOcena)
+            </td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

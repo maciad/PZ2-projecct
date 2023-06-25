@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Filmy
+build_property.RootNamespace = Filmy
+build_property.ProjectDir = C:\Users\Maciek\Desktop\Studia\Semestr 4\PZ2\Project\Filmy\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Maciek\Desktop\Studia\Semestr 4\PZ2\Project\Filmy
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Aktor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWt0b3JcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Aktor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWt0b3JcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Aktor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWt0b3JcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Aktor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWt0b3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Aktor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWt0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Film/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Film/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Film/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Film/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Film/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Ocena/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Ocena/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Ocena/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Ocena/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Ocena/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2NlbmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Uzytkownik/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pa1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Uzytkownik/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pa1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Uzytkownik/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pa1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Uzytkownik/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pa1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Uzytkownik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pa1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maciek/Desktop/Studia/Semestr 4/PZ2/Project/Filmy/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ho37zc1o6g
