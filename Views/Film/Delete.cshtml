@@ -45,7 +45,14 @@
             @Html.DisplayNameFor(model => model.Oceny)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Oceny.Average(o => o.OcenaWartosc))
+            @{
+            double averageOcena = 0.0;
+            if (Model.Oceny != null && Model.Oceny.Any())
+            {
+                averageOcena = Model.Oceny.Average(o => o.OcenaWartosc);
+            }
+            }
+                @Html.DisplayFor(modelItem => averageOcena)
         </dd>
     </dl>
     
